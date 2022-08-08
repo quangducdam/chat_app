@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1033276198160-1g1bn90lhv0gh2fs4tor54j7jpi7dapd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1033276198160-1g1bn90lhv0gh2fs4tor54j7jpi7dapd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5Xy2oIvuOT6nmG2UjmtPfx8Y4FsybNKE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1033276198160</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chatAppDemo</string>
+	<key>PROJECT_ID</key>
+	<string>app-demo-18d55</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-demo-18d55.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1033276198160:ios:2f0a0c00509d85bd0ca995</string>
+	<key>DATABASE_URL</key>
+	<string>https://app-demo-18d55-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
